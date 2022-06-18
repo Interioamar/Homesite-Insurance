@@ -2,7 +2,7 @@
 
 **Introduction**
 
-![MVU-MSDSCI-2020-Q1-Skyscraper-Predictive-Analytics-in-Insurance-Types-Tools-and-the-Future-header-v1-1000x523](https://user-images.githubusercontent.com/107593984/174439218-57d93183-2c8b-4e37-9727-9e5d4c20c4f5.jpg)
+![main](https://user-images.githubusercontent.com/107593984/174439335-746ab6fc-e695-4bc6-9bf6-fce48fa5a4dc.jpeg)
 
 Homesite is a US based online Insurance company which oﬀers insurance coverage for Home, Renters, Auto, Small business etc. It is the one of the ﬁrst companies to enable customers to purchase home insurance directly online, during a single visit. Homesite tackles in ﬁnding faster and smarter methods of improving how people buy insurance is the main jam. Website : <https://go.homesite.com/>
 
