@@ -2,7 +2,7 @@
 
 **Introduction**
 
-![https://cdn-images-1.medium.com/max/640/1\*uHyD91hqwbHtvE6_9yyKeQ.jpeg](media/24ea4fb69578081ed9795cb0f0b055d1.jpeg)
+**![](media/b87c83f7586ac1b1edbc4ebff72c8a79.jpg)**
 
 Homesite is a US based online Insurance company which oﬀers insurance coverage for Home, Renters, Auto, Small business etc. It is the one of the ﬁrst companies to enable customers to purchase home insurance directly online, during a single visit. Homesite tackles in ﬁnding faster and smarter methods of improving how people buy insurance is the main jam. Website : <https://go.homesite.com/>
 
